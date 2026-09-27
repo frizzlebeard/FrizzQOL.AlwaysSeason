@@ -1,7 +1,7 @@
 {
   "name": "FrizzQOL_Always_Season",
   "version_number": "0.1.0",
-  "website_url": "",
+  "website_url": "https://github.com/frizzlebeard/FrizzQOL.AlwaysSeason",
   "description": "Maypole and other seasonal recipes and build pieces stay available all year.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2333"

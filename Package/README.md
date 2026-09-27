@@ -8,6 +8,10 @@ There is no config file.
 
 Install this on every player. A dedicated server does not need it.
 
+## Source
+
+https://github.com/frizzlebeard/FrizzQOL.AlwaysSeason
+
 ## Install
 
 Install with r2modman or the Thunderstore Mod Manager.
